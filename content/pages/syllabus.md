@@ -60,17 +60,165 @@ This course will be graded Pass / Fail. To pass this course, students are expect
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Alien invasion: How _Toxoplasma_ secretly enters host cells | &nbsp; |
-| 3 | Make yourself at home: Intracellular survival in the parasitophorous vacuole | &nbsp; |
-| 4 | How parasites transport proteins and nutrients across membranes | &nbsp; |
-| 5 | The transforming parasite: How _Theileria_ modifies its host cell in order to replicate | &nbsp; |
-| 6 | (Don't) Divide and Conquer: How _Toxoplasma_ pauses the host cell cycle | Midterm Written Assignment due |
-| 7 | Field trip | Field trip to the [Lourido Lab](http://louridolab.wi.mit.edu/), at the [Whitehead Institute](http://wi.mit.edu/) |
-| 8 | Jamming communications: Strategies to thwart innate immunity | &nbsp; |
-| 9 | The fatal consequences of hide and seek: How changes in _Plasmodium's_ surface increases disease severity | &nbsp; |
-| 10 | Malarial mind control–Plasmodium increases transmission by modifying mosquito behavior | &nbsp; |
-| 11 | Of mice, rats, cats, leopards and chimpanzees | &nbsp; |
-| 12 | Oral presentations | Oral Presentations due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Alien invasion: How _Toxoplasma_ secretly enters host cells
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Make yourself at home: Intracellular survival in the parasitophorous vacuole
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+How parasites transport proteins and nutrients across membranes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The transforming parasite: How _Theileria_ modifies its host cell in order to replicate
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+(Don't) Divide and Conquer: How _Toxoplasma_ pauses the host cell cycle
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Written Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to the [Lourido Lab](http://louridolab.wi.mit.edu/), at the [Whitehead Institute](http://wi.mit.edu/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Jamming communications: Strategies to thwart innate immunity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The fatal consequences of hide and seek: How changes in _Plasmodium's_ surface increases disease severity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Malarial mind control–Plasmodium increases transmission by modifying mosquito behavior
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Of mice, rats, cats, leopards and chimpanzees
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
